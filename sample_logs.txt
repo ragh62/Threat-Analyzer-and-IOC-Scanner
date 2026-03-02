@@ -1,0 +1,17 @@
+User login from 192.168.1.5
+Connection attempt from 45.33.32.156
+Visited website example.com
+DNS query to malicious.net
+Connection from 45.33.32.156
+Connection from 8.8.8.8
+Connection from 8.8.8.8
+Connection from 45.33.32.156
+Downloaded file with hash: 44d88612fea8a8f36de82e1278abb02f
+Connection from 8.8.8.8
+Connection from 8.8.8.8
+Connection from 45.33.32.156
+Downloaded file with hash: 44d88612fea8a8f36de82e1278abb02f
+Connection from 8.8.8.8
+Connection from 45.33.32.156
+Downloaded file with hash: 44d88612fea8a8f36de82e1278abb02f
+DNS query to malicious.net
